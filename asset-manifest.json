@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sunnyside/static/css/main.63813e14.chunk.css",
+    "main.js": "/sunnyside/static/js/main.7913d3b9.chunk.js",
+    "main.js.map": "/sunnyside/static/js/main.7913d3b9.chunk.js.map",
+    "runtime-main.js": "/sunnyside/static/js/runtime-main.3dbaa31e.js",
+    "runtime-main.js.map": "/sunnyside/static/js/runtime-main.3dbaa31e.js.map",
+    "static/js/2.0ebee31e.chunk.js": "/sunnyside/static/js/2.0ebee31e.chunk.js",
+    "static/js/2.0ebee31e.chunk.js.map": "/sunnyside/static/js/2.0ebee31e.chunk.js.map",
+    "static/js/3.5608b978.chunk.js": "/sunnyside/static/js/3.5608b978.chunk.js",
+    "static/js/3.5608b978.chunk.js.map": "/sunnyside/static/js/3.5608b978.chunk.js.map",
+    "index.html": "/sunnyside/index.html",
+    "static/css/main.63813e14.chunk.css.map": "/sunnyside/static/css/main.63813e14.chunk.css.map",
+    "static/js/2.0ebee31e.chunk.js.LICENSE.txt": "/sunnyside/static/js/2.0ebee31e.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/sunnyside/static/media/image-header.49b52ffa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dbaa31e.js",
+    "static/js/2.0ebee31e.chunk.js",
+    "static/css/main.63813e14.chunk.css",
+    "static/js/main.7913d3b9.chunk.js"
+  ]
+}
