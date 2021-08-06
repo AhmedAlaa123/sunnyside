@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sunnyside/static/css/main.63813e14.chunk.css",
-    "main.js": "/sunnyside/static/js/main.5e72afd1.chunk.js",
-    "main.js.map": "/sunnyside/static/js/main.5e72afd1.chunk.js.map",
+    "main.js": "/sunnyside/static/js/main.ab19abf3.chunk.js",
+    "main.js.map": "/sunnyside/static/js/main.ab19abf3.chunk.js.map",
     "runtime-main.js": "/sunnyside/static/js/runtime-main.3dbaa31e.js",
     "runtime-main.js.map": "/sunnyside/static/js/runtime-main.3dbaa31e.js.map",
     "static/js/2.0ebee31e.chunk.js": "/sunnyside/static/js/2.0ebee31e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3dbaa31e.js",
     "static/js/2.0ebee31e.chunk.js",
     "static/css/main.63813e14.chunk.css",
-    "static/js/main.5e72afd1.chunk.js"
+    "static/js/main.ab19abf3.chunk.js"
   ]
 }
