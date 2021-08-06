@@ -6,7 +6,7 @@ const About =(props)=>{
         <section className='about' id='about'>
             <NavBar scrollTo={props.scrollTo}/>
             <h1 className='about-head'>We Are Creatives</h1>
-            <img src='images/icon-arrow-down.svg' alt='arrow down'/>
+            <img src='https://AhmedAlaa123.github.io/sunnyside/images/icon-arrow-down.svg' alt='arrow down'/>
         </section>
     )
 }
