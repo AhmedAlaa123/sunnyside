@@ -1,0 +1,40 @@
+.service-desc{
+    padding: 10% ;
+    
+}
+
+@media(max-width:767px)
+{
+    .service-desc{
+        text-align: center;
+    }
+}
+.service-desc h2, .services h3{
+    font-family: 'Fraunces', serif;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+.service-desc p {
+    line-height: 1.8;
+    margin-bottom: 30px;
+    color:  hsl(210, 4%, 67%);
+}
+.services .photography-text { color: hsl(198, 62%, 26%) !important;}
+.services .graphic-design-text{
+    color: hsl(198, 62%, 26%) !important;
+}
+
+.col-md-6.img{
+    padding: 0;
+}
+
+.my-pos-relative{
+    overflow: hidden;
+    position: relative;
+}
+.my-pos-abs{
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+    right: 10%;
+}

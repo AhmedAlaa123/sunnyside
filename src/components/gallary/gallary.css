@@ -1,0 +1,11 @@
+
+
+.gallery .col-md-3 {
+    padding:0;
+}
+@media (max-width:545px)
+{
+    .my-col-xs-6{
+        width: 50%;
+    }
+}

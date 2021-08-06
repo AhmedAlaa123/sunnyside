@@ -1,0 +1,14 @@
+.scroll-top{
+    height: 50px;
+    width: 70px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(238, 238, 238, 0.678);
+    background-color: hsl(167, 40%, 24%) !important;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}

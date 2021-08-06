@@ -1,0 +1,17 @@
+.about{
+   
+    text-align: center;
+    min-height: 100vh;
+    background-image: url('../../images/backgrounds/image-header.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+.about h1{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    letter-spacing: 8px;
+    font-size: 50px;
+    font-family: 'Fraunces', serif;
+    color:#fff
+}
