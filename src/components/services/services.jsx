@@ -16,12 +16,12 @@ export default function Services(props){
 
                 </div>
                 <div className='col-md-6 img '>
-                   <img src='https://AhmedAlaa123.github.io/sunnyside-agency-landing-page/images/main-images/image-transform.jpg' className='img-fluid' alt='Transform imag'></img>
+                   <img src='images/main-images/image-transform.jpg' className='img-fluid' alt='Transform imag'></img>
                 </div>
             </div>
             <div className='row'>
                 <div className='col-md-6 img'>
-                   <img src='https://AhmedAlaa123.github.io/sunnyside-agency-landing-page/images/main-images/image-stand-out.jpg' className='img-fluid' alt='Stand Out'></img>
+                   <img src='images/main-images/image-stand-out.jpg' className='img-fluid' alt='Stand Out'></img>
                 </div>
                 <div className='col-md-6 service-desc'>
                     <h2>
@@ -36,7 +36,7 @@ export default function Services(props){
             </div>
             <div className='row'>
                 <div className='col-md-6 img' id='services'>
-                    <img className='my-pos-relative img-fluid' src='https://AhmedAlaa123.github.io/sunnyside-agency-landing-page/images/main-images/image-graphic-design.jpg' alt='graphic design'/>
+                    <img className='my-pos-relative img-fluid' src='images/main-images/image-graphic-design.jpg' alt='graphic design'/>
                     <div className='my-pos-abs text-center graphic-design-text'>
                         <h3>
                             Graphic Design
@@ -48,7 +48,7 @@ export default function Services(props){
                 </div>
             
                 <div className='col-md-6 img'>
-                    <img className='my-pos-relative img-fluid' src='https://AhmedAlaa123.github.io/sunnyside-agency-landing-page/images/main-images/image-photography.jpg' alt='photography'/>
+                    <img className='my-pos-relative img-fluid' src='images/main-images/image-photography.jpg' alt='photography'/>
                     <div className='my-pos-abs text-center photography-text'>
                         <h3>
                             Photography
